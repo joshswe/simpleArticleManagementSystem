@@ -1,5 +1,5 @@
 # Articles Management System 
-This simple Articles Management System web app allows users to register their accounts and login to manage their articles. They are able to (1) view all the articles they created, and (2) add, update and edit any article in their dashboards. 
+This Articles Management System web app allows users to register their accounts and login to manage their articles. They are able to (1) view all the articles they created, and (2) add, update and edit any article in their dashboards. 
 
 **Bootstrap (HTML, CSS and JavaScript)** was used for Front-End while **Flask** (a Python micro web framework) and **MySQL** was adapted to build the Back-End.
 

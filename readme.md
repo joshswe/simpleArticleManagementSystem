@@ -3,6 +3,18 @@ This simple Articles Management System web app allows users to register their ac
 
 **Bootstrap (HTML, CSS and JavaScript)** was used for Front-End while **Flask** (a Python micro web framework) and **MySQL** was adapted to build the Back-End.
 
+# Demo
+
+## Authentication
+
+![Authentication Demo](/ArticleManagementGif/Authentication.gif)
+
+
+## Add, Edit and Delete an Article
+
+![Add_Edit_Delete_Demo](/ArticleManagementGif/Add-Edit-Delete.gif)
+
+
 # Libraries Involved
 ## Python
 - Flask

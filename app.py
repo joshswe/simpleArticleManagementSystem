@@ -11,10 +11,10 @@ app = Flask(__name__)
 
 # Config MySQL
 # Newer versions of Ubuntu (≥16.04): Removing the line bind-address 127.0.0.1 in /etc/mysql/mysql.conf.d/mysqld.cnf.
-app.config['MYSQL_HOST']='10.32.3.89' 
-app.config['MYSQL_USER']='articleroot'
-app.config['MYSQL_PASSWORD']='6779249'
-app.config['MYSQL_DB']='articlesmanagement'
+app.config['MYSQL_HOST']='' 
+app.config['MYSQL_USER']=''
+app.config['MYSQL_PASSWORD']=''
+app.config['MYSQL_DB']=''
 app.config['MYSQL_CURSORCLASS']='DictCursor'
 app.config['MYSQL_PORT'] = 3306
 
